@@ -56,6 +56,7 @@ OR
 - [SequelPro](http://www.sequelpro.com/)
 - [Redis Desktop Manager](http://redisdesktop.com/)
 - [Robomongo](http://robomongo.org/)
+- postgres: [postico](https://eggerapps.at/postico/)
 
 ## Terminal & shell
 
@@ -120,4 +121,9 @@ set -x NODE_ENV development
 - [Dropbox](https://www.dropbox.com/)
 - Paw (AppStore)
 - Slack (AppStore)
+- [Sourcetree](https://www.sourcetreeapp.com/)
 
+## Communication
+
+- [Slack](https://slack.com/)
+- [Trello](https://trello.com/)
